@@ -23,3 +23,5 @@ Designed in Solidworks. CAE analysis in Fusion 360.
 
 # Materials Considered : Aluminium 7075 and Steel AISI 4130
 ![STP Simualtion Report 001](https://user-images.githubusercontent.com/77199304/144701077-4a2380bc-c173-40c7-8e88-7b0b9ee829a8.png)
+
+![STP Simualtion Report Inference 001](https://user-images.githubusercontent.com/77199304/144702392-691e1da2-99e5-4214-ab68-5e4702efa323.png)
