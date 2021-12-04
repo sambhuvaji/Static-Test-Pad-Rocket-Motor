@@ -1,6 +1,9 @@
 # Static-Test-Pad-Rocket-Motor
 Design and CAE of a Static Test Pad for both Vertical and Horizontal Rocket Mount Module.
 
+Vertical STP : https://a360.co/3EoeIcd
+Horizontal STP : https://a360.co/3rznGzz
+
 Designed in Solidworks. CAE analysis in Fusion 360.
 ### Material : Steel AISI 4130 (contains Chromium and Molybdenum)
 
